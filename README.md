@@ -11,6 +11,7 @@
 2. 进入仓库目录运行 `pip install -r requirements.txt`
 3. 打开main.py修改对应配置
 4. 运行`python main.py`
+5. 添加定时任务即可自动下载新刊
 
 ## 如何配置
 
